@@ -1,0 +1,48 @@
+[
+	{
+		"firstName": "Сайрес",
+		"lastName": "Смит",
+		"address": {
+			"street": "Stuart St.",
+			"city": "Boston, Massachusetts",
+			"zipCode": "02345"
+		},
+		"phoneNumbers": 
+			[
+			"001 123-45-67",
+			"+7 112 756-34-12"
+			]
+	},
+	{
+		"firstName": "Гедеон",
+		"lastName": "Спилетт",
+		"address": {
+			"street": "Wall St.",
+			"city": "New York",
+			"zipCode": "06754"
+		},
+		"phoneNumbers": ["844-698-6397",
+		"800-753-7795",
+		"911 49 432-142"]
+	},
+	{
+		"firstName": "Бонавентур",
+		"lastName": "Пенкроф",
+		"address": {
+			"street": "Beach St.",
+			"city": "New Jersey",
+			"zipCode": "01520"
+		},
+		"phoneNumbers": ["800-451-51-51"]
+	},
+	{
+		"firstName": "Герберт",
+		"lastName": "Браун",
+		"address": {
+			"street": "Beach St.",
+			"city": "New Jersey",
+			"zipCode": "01520"
+		},
+		"phoneNumbers": ["0102 732-10-00"]
+	}
+]
